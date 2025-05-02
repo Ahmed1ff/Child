@@ -1,0 +1,210 @@
+{
+  "0-3": {
+    "ar": [
+      "هل ينتبه طفلك للأصوات العالية؟",
+      "هل يصدر أصوات كالغاغاة؟",
+      "هل يتابع الأشياء بعينيه؟",
+      "هل يتعرف على وجه الأم؟",
+      "هل يحرك رأسه باتجاه الأصوات؟",
+      "هل يهدأ عند حمله؟",
+      "هل يبتسم أثناء التفاعل معك؟",
+      "هل يرفع رأسه أثناء الاستلقاء على بطنه؟",
+      "هل يظهر استجابة للمس؟",
+      "هل يحاول الإمساك بإصبعك؟"
+    ],
+    "en": [
+      "Does your baby react to loud sounds?",
+      "Does your baby make cooing sounds?",
+      "Does your baby follow objects with eyes?",
+      "Does your baby recognize the mother’s face?",
+      "Does your baby turn head toward sounds?",
+      "Does your baby calm down when held?",
+      "Does your baby smile during interaction?",
+      "Does your baby lift head while on tummy?",
+      "Does your baby respond to touch?",
+      "Does your baby try to grasp your finger?"
+    ]
+  },
+  "4-6": {
+    "ar": [
+      "هل يستطيع رفع رأسه بثبات؟",
+      "هل يبدأ بمحاولة التدحرج؟",
+      "هل يبتسم للأشخاص؟",
+      "هل يصدر أصوات لجذب الانتباه؟",
+      "هل يحاول الإمساك بالأشياء؟",
+      "هل ينظر إلى نفسه في المرآة؟",
+      "هل يستمتع بألعاب الأصوات؟",
+      "هل يتعرف على الأصوات المألوفة؟",
+      "هل يصدر أصوات متكررة مثل با با؟",
+      "هل يتابع حركة اللعب المعلقة؟"
+    ],
+    "en": [
+      "Can your baby hold head steady?",
+      "Does your baby try to roll over?",
+      "Does your baby smile at people?",
+      "Does your baby make sounds to attract attention?",
+      "Does your baby try to grasp objects?",
+      "Does your baby look at self in mirror?",
+      "Does your baby enjoy sound toys?",
+      "Does your baby recognize familiar sounds?",
+      "Does your baby make repetitive sounds like ba-ba?",
+      "Does your baby track hanging toys?"
+    ]
+  },
+  "7-9": {
+    "ar": [
+      "هل يجلس بدون دعم؟",
+      "هل يزحف أو يحاول الزحف؟",
+      "هل ينقل الأشياء بين يديه؟",
+      "هل ينظر إليك عندما تناديه؟",
+      "هل يظهر قلقًا عند وجود غرباء؟",
+      "هل يستخدم أصابعه للإمساك بالطعام؟",
+      "هل يصدر أصوات مزدوجة مثل دادا؟",
+      "هل يصفق بيديه؟",
+      "هل يتعرف على اسمه؟",
+      "هل يبحث عن الألعاب المخبأة جزئيًا؟"
+    ],
+    "en": [
+      "Can your baby sit without support?",
+      "Is your baby crawling or trying to crawl?",
+      "Does your baby transfer objects between hands?",
+      "Does your baby look when you call their name?",
+      "Does your baby show anxiety with strangers?",
+      "Does your baby use fingers to pick up food?",
+      "Does your baby babble double sounds like dada?",
+      "Does your baby clap hands?",
+      "Does your baby recognize their name?",
+      "Does your baby search for partially hidden toys?"
+    ]
+  },
+  "10-12": {
+    "ar": [
+      "هل يقف مع دعم؟",
+      "هل يحاول المشي مع الإمساك بالأثاث؟",
+      "هل يستخدم إشارات مثل التلويح؟",
+      "هل يقول كلمات بسيطة مثل ماما أو بابا؟",
+      "هل يستجيب لتعليمات بسيطة؟",
+      "هل يشرب من كوب بمساعدة؟",
+      "هل يضع الأشياء داخل صندوق؟",
+      "هل يلوح بيده عند الوداع؟",
+      "هل يحب اللعب بألعاب بسيطة؟",
+      "هل يقلد الأصوات أو الحركات؟"
+    ],
+    "en": [
+      "Can your baby stand with support?",
+      "Does your baby try to walk holding onto furniture?",
+      "Does your baby use gestures like waving?",
+      "Does your baby say simple words like mama or dada?",
+      "Does your baby follow simple instructions?",
+      "Does your baby drink from a cup with help?",
+      "Does your baby put objects into a box?",
+      "Does your baby wave goodbye?",
+      "Does your baby enjoy playing with simple toys?",
+      "Does your baby imitate sounds or gestures?"
+    ]
+  },
+  "13-15": {
+    "ar": [
+      "هل يمشي بدون دعم؟",
+      "هل يستطيع وضع الأشياء في صندوق؟",
+      "هل يقلد أصواتك أو حركاتك؟",
+      "هل يستخدم كلمات إضافية بجانب ماما وبابا؟",
+      "هل يظهر مشاعر مثل الفرح أو الحزن؟",
+      "هل يحمل الألعاب أثناء المشي؟",
+      "هل يشير إلى الأشياء التي يريدها؟",
+      "هل يضع الأشياء فوق بعضها؟",
+      "هل يفهم كلمة لا؟",
+      "هل يجلب الأشياء عند الطلب؟"
+    ],
+    "en": [
+      "Can your child walk without support?",
+      "Can your child put objects into a box?",
+      "Does your child imitate your sounds or gestures?",
+      "Does your child use words besides mama and dada?",
+      "Does your child show emotions like happiness or sadness?",
+      "Does your child carry toys while walking?",
+      "Does your child point to desired objects?",
+      "Does your child stack objects?",
+      "Does your child understand the word no?",
+      "Does your child bring objects when asked?"
+    ]
+  },
+  "16-18": {
+    "ar": [
+      "هل يجري بثبات؟",
+      "هل يركل الكرة؟",
+      "هل يشير إلى الصور في الكتب؟",
+      "هل يحاول ارتداء ملابسه بمساعدتك؟",
+      "هل يتبع أوامر بسيطة من خطوتين؟",
+      "هل يسمي الأشياء المألوفة؟",
+      "هل يستخدم الملعقة بتوجيه؟",
+      "هل يرسم خطوطًا على الورق؟",
+      "هل يقلد الكبار في الأعمال المنزلية؟",
+      "هل يجمع بين كلمتين لتكوين جملة؟"
+    ],
+    "en": [
+      "Can your child run steadily?",
+      "Can your child kick a ball?",
+      "Does your child point to pictures in books?",
+      "Does your child try to dress with your help?",
+      "Does your child follow two-step commands?",
+      "Does your child name familiar objects?",
+      "Does your child use a spoon with guidance?",
+      "Does your child scribble on paper?",
+      "Does your child imitate adults doing chores?",
+      "Does your child combine two words into phrases?"
+    ]
+  },
+  "19-21": {
+    "ar": [
+      "هل يستطيع صعود الدرج بمساعدة؟",
+      "هل يلعب ألعاب تخيلية بسيطة؟",
+      "هل يعرف أجزاء الجسم عند الإشارة إليها؟",
+      "هل يستخدم جمل قصيرة من كلمتين؟",
+      "هل يبدي اهتمامًا بأطفال آخرين؟",
+      "هل يضع الأشياء في أماكنها الصحيحة؟",
+      "هل يرتب المكعبات فوق بعضها؟",
+      "هل يقلد حركات الحيوانات؟",
+      "هل يحب اللعب بالماء؟",
+      "هل يميز بين الألوان الأساسية؟"
+    ],
+    "en": [
+      "Can your child climb stairs with help?",
+      "Does your child play simple pretend games?",
+      "Does your child know body parts when pointed to?",
+      "Does your child use two-word phrases?",
+      "Does your child show interest in other children?",
+      "Does your child place objects in correct spots?",
+      "Does your child stack blocks?",
+      "Does your child imitate animal sounds?",
+      "Does your child enjoy playing with water?",
+      "Does your child recognize basic colors?"
+    ]
+  },
+  "22-24": {
+    "ar": [
+      "هل يقفز بكلتا القدمين؟",
+      "هل يستطيع بناء برج من عدة مكعبات؟",
+      "هل يعبر عن احتياجاته بالكلمات؟",
+      "هل يشارك في الألعاب الجماعية؟",
+      "هل يستخدم جمل من ثلاث كلمات؟",
+      "هل يرتب الصور حسب التسلسل؟",
+      "هل يقلد الأنشطة اليومية؟",
+      "هل يعرف اسمه الكامل؟",
+      "هل يحاول العد حتى ثلاثة؟",
+      "هل يفرز الأشياء حسب الشكل أو اللون؟"
+    ],
+    "en": [
+      "Can your child jump with both feet?",
+      "Can your child build a tower with blocks?",
+      "Does your child express needs with words?",
+      "Does your child participate in group games?",
+      "Does your child use three-word sentences?",
+      "Does your child arrange pictures in sequence?",
+      "Does your child imitate daily activities?",
+      "Does your child know their full name?",
+      "Does your child attempt to count to three?",
+      "Does your child sort objects by shape or color?"
+    ]
+  }
+}
