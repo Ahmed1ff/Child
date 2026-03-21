@@ -1,15 +1,22 @@
+import os
+import json
+import requests
 from fastapi import FastAPI
 from pydantic import BaseModel
-import requests
-import json
+from dotenv import load_dotenv
+
+load_dotenv()
 
 app = FastAPI()
+
+AZURE_OPENAI_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT")
+AZURE_API_KEY = os.getenv("AZURE_API_KEY")
 
 with open("questions.json", "r", encoding="utf-8") as f:
     questions_by_age = json.load(f)
 
-AZURE_OPENAI_ENDPOINT = "https://chatahmedfarouk.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo-2/chat/completions?api-version=2025-01-01-preview"
-AZURE_API_KEY = "Da3NoVCmbrOuEP2FyxS4UjAlDjI2CTmqFSZSbHmzZG8kN9OqxLBxJQQJ99BCAC5T7U2XJ3w3AAAAACOGVFOy"
+if not AZURE_API_KEY:
+    print("⚠️ Warning: AZURE_API_KEY not found in environment variables!")
 
 session_answers = {}
 
